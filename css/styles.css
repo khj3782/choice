@@ -35,6 +35,14 @@ td:hover{
   position:absolute;
   width:100vw;
 }
+.left{
+  margin-left:20px;
+  margin-right:20px;
+  text-align:left;
+}
+.yellow{
+  color:yellow;
+}
 .center{
   text-align:center;
 }
